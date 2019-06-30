@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 120
+  controlID: 122
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 5a320000
+      m_SelectedIDs: 56320000
       m_LastClickedID: 0
       m_ExpandedIDs: 82fbffff
       m_RenameOverlay:
@@ -402,7 +402,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Packages/com.unity.ide.rider
+    - Assets/Scripts
   m_ViewMode: 0
   m_StartGridSize: 62
   m_LastFolders: []
@@ -414,7 +414,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 6e320000
     m_LastClickedID: 12910
-    m_ExpandedIDs: 0000000050320000
+    m_ExpandedIDs: 000000003c3200003e32000040320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -442,7 +442,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000503200006632000068320000ffffff7f
+    m_ExpandedIDs: ffffffff000000003c3200003e3200004032000056320000583200005a320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
